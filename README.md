@@ -9,8 +9,8 @@ Dataset:
     three classes COVID-19, Normal and Lung Opacity.
 
 Centralized learning source code:
-  Deep learning souce code for ResNet50 for 50 epochs is provided in the Python notebook https://github.com/SadafNaz1980/FL-via- 
-  ResNet50/blob/main/S2_Centralized_ResNet50-Epochs50.ipynb
+  Deep learning souce code for scenario 3 using ResNet50 for 50 epochs is provided in the Python notebook https://github.com/SadafNaz1980/FL-via- 
+  ResNet50/blob/main/S3_Centralized_ResNet50-Epochs50.ipynb
   Note: Parts of source code is taken from Kaggle notebooks.
 
 Federated learning source code for IID cases:
