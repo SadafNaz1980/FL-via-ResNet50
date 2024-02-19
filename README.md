@@ -3,6 +3,7 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 
 **System requirements:**
   GPU (i.e., NVIDIA-SMI, CUDA Version: 11.2 ) and GooglecolabPRO+
+
 **Dataset:**
   An open source data 2nd update from https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database is used for the study. This dataset consists of 3616     COVID-19 positive cases along with 10,192 Normal, 6012 Lung Opacity (Non-COVID lung infection), and 1345 Viral Pneumonia images. We focused our analysis only on 
     three classes COVID-19, Normal and Lung Opacity.
