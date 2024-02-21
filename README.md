@@ -22,4 +22,4 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 
 **Further readings:**
 *Papers:*
-{A Communication Efficient Federated Learning Approach to Multi Chest Diseases Classification}(https://ieeexplore.ieee.org/document/9558913)
+[A Communication Efficient Federated Learning Approach to Multi Chest Diseases Classification](https://ieeexplore.ieee.org/document/9558913)
