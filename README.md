@@ -8,7 +8,7 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 
 * GooglecolabPRO+
   
-* Python
+* Python3
   
 * Pytorch
   
