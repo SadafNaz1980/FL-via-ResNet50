@@ -21,10 +21,10 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
   Note: Part of the code is adapted from https://github.com/alperctnkaya/FedAug.
 ______________________________________________________________________________________________________________________________________________________________
 
-**Further readings:**
-
+**Further Readings:**
+---------------------
 **Papers**:
-
+**------**
 [A comprehensive review of federated learning for COVID-19 detection](https://doi.org/10.1002/int.22777)
 
 [Federated Learning: Challenges, Methods, and Future Directions](https://ieeexplore.ieee.org/document/9084352)
