@@ -25,12 +25,14 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 Centralized and federated learning implementations are provided in interactive python notebooks. 
 
 **Centralized learning:**
+  
   Deep learning code for scenario 3 using ResNet50 for 50 epochs is provided in the Python notebook https://github.com/SadafNaz1980/FL-via- 
   ResNet50/blob/main/S3_Centralized_ResNet50-Epochs50.ipynb
   
   Note: Parts of source code is taken from Kaggle notebooks.
 
 **Federated learning:**
+  
   ***FL for IID cases*** code is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/S2_10C10R_FL_ResNet50.ipynb
   
   ***FL for Non-IID cases*** code is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/FullData_10C10R_FedAug_ResNET50.ipynb
