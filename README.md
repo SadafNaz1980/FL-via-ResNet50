@@ -31,11 +31,11 @@ Centralized and federated learning implementations are provided in interactive p
   Note: Parts of source code is taken from Kaggle notebooks.
 
 **Federated learning:**
-  FL for IID cases code is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/S2_10C10R_FL_ResNet50.ipynb
+  ***FL for IID cases*** code is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/S2_10C10R_FL_ResNet50.ipynb
   
-  FL for Non-IID cases code is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/FullData_10C10R_FedAug_ResNET50.ipynb
+  ***FL for Non-IID cases*** code is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/FullData_10C10R_FedAug_ResNET50.ipynb
   
-  Note: Part of the code is adapted from https://github.com/alperctnkaya/FedAug.
+  Note: Part of the FL code is adapted from https://github.com/alperctnkaya/FedAug.
 
 **Further Readings:**
 ---------------------
