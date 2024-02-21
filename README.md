@@ -22,7 +22,7 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 **Experiments**
 ---------------------
 
-Centralized and federated learning implementations are provided in interactive python notebooks. 
+Centralized and federated learning implementations are provided in interactive python notebooks (ipynb). Results can be easily reprocuced by executing .ipynb on google colab.
 
 **Centralized Learning:**
   
