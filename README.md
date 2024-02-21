@@ -24,7 +24,6 @@ ________________________________________________________________________________
 **Further Readings:**
 ---------------------
 **Papers**:
-**------**
 [A comprehensive review of federated learning for COVID-19 detection](https://doi.org/10.1002/int.22777)
 
 [Federated Learning: Challenges, Methods, and Future Directions](https://ieeexplore.ieee.org/document/9084352)
