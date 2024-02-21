@@ -1,9 +1,13 @@
 # FL-via-ResNet50
 Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Images: Implementations and Analysis 
 
-**System requirements:**
+**System Requirements:**
 ---------------------
-  GPU (i.e., NVIDIA-SMI, CUDA Version: 11.2 ), GooglecolabPRO+, Pytorch, Torchvision
+  GPU (i.e., NVIDIA-SMI, CUDA Version: 11.2 )
+  GooglecolabPRO+
+  Python
+  Pytorch
+  Torchvision
 
 **Dataset:**
 ---------------------
@@ -26,7 +30,8 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 
 **Further Readings:**
 ---------------------
-**Papers**:
+
+**Papers:**
 
 [A comprehensive review of federated learning for COVID-19 detection](https://doi.org/10.1002/int.22777)
 
@@ -35,3 +40,11 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 [A Communication Efficient Federated Learning Approach to Multi Chest Diseases Classification](https://ieeexplore.ieee.org/document/9558913)
 
 [Improving Performance of Federated Learning based Medical Image Analysis in Non-IID Settings using Image Augmentation](https://ieeexplore.ieee.org/document/9654356)
+
+**Blogs:**
+
+[]()
+
+[]()
+
+[]()
