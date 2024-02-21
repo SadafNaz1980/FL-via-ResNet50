@@ -3,10 +3,15 @@ Centralized and Federated Learning for COVID-19 Detection with Chest X-ray Image
 
 **System Requirements:**
 ---------------------
+  
   GPU (i.e., NVIDIA-SMI, CUDA Version: 11.2 )
+  
   GooglecolabPRO+
+  
   Python
+  
   Pytorch
+  
   Torchvision
 
 **Dataset:**
@@ -22,6 +27,7 @@ Centralized and federated learning implementations are provided in interactive p
 **Centralized learning:**
   Deep learning code for scenario 3 using ResNet50 for 50 epochs is provided in the Python notebook https://github.com/SadafNaz1980/FL-via- 
   ResNet50/blob/main/S3_Centralized_ResNet50-Epochs50.ipynb
+  
   Note: Parts of source code is taken from Kaggle notebooks.
 
 **Federated learning:**
