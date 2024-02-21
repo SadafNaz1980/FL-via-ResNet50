@@ -26,8 +26,7 @@ Centralized and federated learning implementations are provided in interactive p
 
 **Centralized Learning:**
   
-  Deep learning code for scenario 3 using ResNet50 for 50 epochs is provided in the Python notebook https://github.com/SadafNaz1980/FL-via- 
-  ResNet50/blob/main/S3_Centralized_ResNet50-Epochs50.ipynb
+  Deep learning code for scenario 3 using ResNet50 for 50 epochs is provided in the Python notebook https://github.com/SadafNaz1980/FL-via-ResNet50/blob/main/S3_Centralized_ResNet50-Epochs50.ipynb
   
   Note: Parts of source code is taken from Kaggle notebooks.
 
